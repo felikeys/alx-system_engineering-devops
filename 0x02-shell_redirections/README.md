@@ -1,1 +1,1 @@
-Printing a Hello World script
+display the content of etc/passwd
