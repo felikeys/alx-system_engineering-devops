@@ -1,1 +1,1 @@
-display the content of etc/passwd
+dispaly last 10 lines of a file
