@@ -1,1 +1,1 @@
-dispaly last 10 lines of a file
+display the thirdline of iacta
