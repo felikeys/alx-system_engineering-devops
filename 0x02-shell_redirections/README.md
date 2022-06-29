@@ -1,1 +1,1 @@
-best school
+current state of directory
