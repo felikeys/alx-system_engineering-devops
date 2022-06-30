@@ -1,1 +1,1 @@
-letters only phrase
+A to Z
