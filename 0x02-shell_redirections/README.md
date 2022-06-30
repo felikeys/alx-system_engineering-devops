@@ -1,1 +1,1 @@
-display all lines
+letters only phrase
