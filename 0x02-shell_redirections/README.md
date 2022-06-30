@@ -1,1 +1,1 @@
-pattern
+display all lines
