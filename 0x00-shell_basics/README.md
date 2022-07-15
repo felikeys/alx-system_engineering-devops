@@ -1,1 +1,1 @@
-script that list files in a long format
+list files that starts with .
