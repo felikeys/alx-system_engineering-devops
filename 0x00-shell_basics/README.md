@@ -1,1 +1,1 @@
-list files that starts with .
+list the file and user ID's
